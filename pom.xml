@@ -5,6 +5,8 @@
   <artifactId>hello-maven</artifactId>
   <version>1.0-SNAPSHOT</version>
 <properties>
+     <sonar.host.url>http://34.125.108.167:9000/</sonar.host.url>
+     <sonar.login>sqa_af9dd3cb68323654e948f33eb027496fff1d8d5f</sonar.login>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
 </properties>
